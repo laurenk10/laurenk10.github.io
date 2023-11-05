@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  
+  <body>
+    
+    <div>
+    <h2>Lauren Kuhns</h2>
+      <img src="https://www.travelandleisure.com/thmb/HlNYcpqWt9t1IgQq1eTgJG3hp6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/saud-beach-luzon-philippines-WRLDBEACH0421-15e2c368e7ad4495be803bd60cafa379.jpg"
+    </div>
+    
+    <div>
+    <img src=""/>
+    
+    <h4>Resume-Project Manager</h4>
+    </div>
+    
+    <div class="body">
+    <p>Objectives</p>
+    <ul>
+      <li>Talking about myself</li>
+    </ul>
+    <ol>
+      <li>testing a list</li>
+      <li>testing again</li>
+    </ol>
+    </div>
+    
+    <div>
+    <h5> Copywright Lauren Kuhns </h5>
+    </div>
+  </body>
+</html>
